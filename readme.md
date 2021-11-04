@@ -1,6 +1,14 @@
-# Pure
+# Pure-
 
-> Pretty, minimal and fast ZSH prompt
+> Stripped version of @sindresorhus's Pure themed after theunraveler.zsh from oh-my-zsh.
+> Readme below left untouched, since my contributions are quite minor.
+> You probably dont want my fork. The original has many features that are useful.
+
+- Removed timing functionality.
+- Updated async.
+- Removed editor config.
+- Changed prompt to match theunraveler.
+- Tweaked some things in search of performance.
 
 <img src="screenshot.png" width="864">
 
